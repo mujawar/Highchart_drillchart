@@ -129,7 +129,7 @@ myapp.controller('myctrl', function ($scope) {
                         [21, 81],
                         [22, 20],
                         [26, 1],
-                    ]
+                   ]
                 },
                 {
                     id: 'may',
@@ -186,7 +186,6 @@ myapp.controller('myctrl', function ($scope) {
                         [23, 5],
                         [26, 1],
                         [27, 35]
-
                     ]
                 },
                 {
@@ -198,7 +197,7 @@ myapp.controller('myctrl', function ($scope) {
                     ]
                 },
                 {
-                    id: 'nov',
+                   id: 'nov',
                     data: [
                         [15, 4],
                         [17, 4],
