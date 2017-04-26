@@ -4,7 +4,6 @@
 var myapp = angular.module('myapp', ["highcharts-ng"]);
 
 myapp.controller('myctrl', function ($scope) {
-
     $scope.highchartsNG = {
         options: {
             chart: {
