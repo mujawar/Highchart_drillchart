@@ -2,7 +2,6 @@
  * Created by mediboxpvtltd on 22/02/17.
  */
 var myapp = angular.module('myapp', ["highcharts-ng"]);
-
 myapp.controller('myctrl', function ($scope) {
     $scope.highchartsNG = {
         options: {
@@ -205,5 +204,4 @@ myapp.controller('myctrl', function ($scope) {
                 }
             ]
         } }
-
 });
